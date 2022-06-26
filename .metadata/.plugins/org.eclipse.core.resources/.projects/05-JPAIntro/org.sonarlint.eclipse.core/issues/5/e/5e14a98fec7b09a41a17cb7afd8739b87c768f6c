@@ -1,0 +1,9 @@
+
+{	java:S116"PRename this field "EmpId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃùH¾RMINORZ
+CODE_SMELL
+	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­ÁøÿÿÿÿH¿RMINORZ
+CODE_SMELL
+{	java:S116"PRename this field "Basic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÃ›óHÀRMINORZ
+CODE_SMELL
+{	java:S116"PRename this field "Grade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¨ÏÏHÁRMINORZ
+CODE_SMELL

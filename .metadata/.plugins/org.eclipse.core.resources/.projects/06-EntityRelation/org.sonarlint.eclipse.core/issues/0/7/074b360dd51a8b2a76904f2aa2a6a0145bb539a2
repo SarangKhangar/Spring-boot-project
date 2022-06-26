@@ -1,0 +1,6 @@
+
+x
+java:S1192"IDefine a constant instead of duplicating this literal "JPAIntro" 6 times.(î—šH‘RCRITICALZ
+CODE_SMELL
+i	java:S106V"9Replace this use of System.out or System.err by a logger.(Úİû·úÿÿÿÿH˜RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+i	java:S1066"9Replace this use of System.out or System.err by a logger.(º¬çşÿÿÿÿH®RMAJORZ
+CODE_SMELL
+d	java:S106/"9Replace this use of System.out or System.err by a logger.(œ•é‹H¯RMAJORZ
+CODE_SMELL
+x
+java:S1192"IDefine a constant instead of duplicating this literal "JPAIntro" 5 times.(î—šH°RCRITICALZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(§‚¼ÍøÿÿÿÿH¶RMAJORZ
+CODE_SMELL
